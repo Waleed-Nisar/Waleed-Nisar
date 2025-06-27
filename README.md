@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 * 📚 I am currently expanding my skills in:
-- Mastering Modern Data Stack tools 
-- Azure Cloud services 
-- Designing robust and scalable data architectures
+     - Mastering Modern Data Stack tools
+     - Azure Cloud services 
+     - Designing robust and scalable data architectures
