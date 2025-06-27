@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there, I am WALEED NISAR 👋
+
+### Thanks for stopping by. Here's a little bit about myself...
+
 
 <!--
 **Waleed-Nisar/Waleed-Nisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm a Software Engineering graduate pursuing a career in data engineering.
+- 👯 I'm always open for job opportunities and freelance projects
+- 💬 I'm looking to collaborate on data engineering and analytics projects
+- 🤘 You can find various data engineering projects on my profile
+
+  
