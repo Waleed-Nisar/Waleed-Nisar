@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 - 💬 I'm looking to collaborate on data engineering
 - 🤘 You can find various data engineering projects on my profile
 
-  
+
+* 📚 I am currently expanding my skills in:
+- Mastering Modern Data Stack tools 
+- Azure Cloud services 
+- Designing robust and scalable data architectures
