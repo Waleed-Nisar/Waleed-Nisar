@@ -16,3 +16,9 @@
    * [Retail Data Engineering Pipeline](https://github.com/Waleed-Nisar/Retail_Data_Engineering_Pipeline) - Complete ETL pipeline for retail data processing and analytics
    * [Visa Analysis Azure End-to-End Project](https://github.com/Waleed-Nisar/Visa-Analysis-Azure-End-to-End-Project) - Full-scale data analysis project using Azure cloud services
    * [Covid-19 Data Engineering Pipeline](https://github.com/Waleed-Nisar/Covid_19_Data_Engineering_pipeline) - Data pipeline for COVID-19 statistics and visualization
+
+** 🎓 My Certifications:
+  * [Python for Data Science, AI & Development](https://coursera.org/verify/HXUG29MKU4ZD)
+  * [IBM ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/verify/KPT8EGC26M7J)
+  * [IBM Data Warehouse Fundamentals ](https://coursera.org/verify/NS4LLR2VSTN2)
+  * [Data Engineering and Machine Learning using Spark ](https://coursera.org/verify/4CL3UYKAQWPZ)
