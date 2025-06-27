@@ -1,40 +1,18 @@
 # Hi there, I am WALEED NISAR 👋
 
-### Thanks for stopping by. Here's a little bit about myself...
 
+**Thanks for stopping by. Here's a little bit about myself...**
 
-<!--
-**Waleed-Nisar/Waleed-Nisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I'm a Software Engineering graduate pursuing a career in data engineering. That means...
+   * 👯 I'm always open for job opportunities and freelance projects
+   * 💬 I'm looking to collaborate on data engineering and analytics projects
+   * 🤘 You can find various data engineering projects on my profile
+* 📚 I am currently expanding my skills in
+   * Mastering Modern Data Stack tools 
+   * Azure Cloud services 
+   * Designing robust and scalable data architectures
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I'm a Software Engineering graduate pursuing a career in data engineering.
-- 👯 I'm always open for job opportunities and freelance projects
-- 💬 I'm looking to collaborate on data engineering
-- 🤘 You can find various data engineering projects on my profile
-
-
-
-
-
-
-
-
-* 📚 I am currently expanding my skills in:
-     - Mastering Modern Data Stack tools
-     - Azure Cloud services 
-     - Designing robust and scalable data architectures
- 
-
-
-
-
+* 🤘 Here are my Open Source contributions so far: Building end-to-end data engineering solutions and analytics pipelines
+   * [Retail Data Engineering Pipeline](https://github.com/Waleed-Nisar/Retail_Data_Engineering_Pipeline) - Complete ETL pipeline for retail data processing and analytics
+   * [Visa Analysis Azure End-to-End Project](https://github.com/Waleed-Nisar/Visa-Analysis-Azure-End-to-End-Project) - Full-scale data analysis project using Azure cloud services
+   * [Covid-19 Data Engineering Pipeline](https://github.com/Waleed-Nisar/Covid_19_Data_Engineering_pipeline) - Data pipeline for COVID-19 statistics and visualization
