@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm a Software Engineering graduate pursuing a career in data engineering.
 - 👯 I'm always open for job opportunities and freelance projects
-- 💬 I'm looking to collaborate on data engineering and analytics projects
+- 💬 I'm looking to collaborate on data engineering
 - 🤘 You can find various data engineering projects on my profile
 
   
